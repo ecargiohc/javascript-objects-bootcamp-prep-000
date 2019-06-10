@@ -13,7 +13,7 @@ function updatePlaylist(playlist, artistName, songTitle) {
  var playlist = {mayer: 'gravity'}
  
  function updatePlaylist(playlist, artist, song) {
-   
+   playlist 
  }
   
   
