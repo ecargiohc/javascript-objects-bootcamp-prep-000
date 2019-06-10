@@ -16,6 +16,10 @@ function removeFromPlaylist(playlist, artistName) {
    playlist.mayer="gravity" 
  }
  
+function removeFromPlaylist(playlist, artist) {
+  delete playlist.mayer="gravity"
+  return playlist
+}
   
   
   
